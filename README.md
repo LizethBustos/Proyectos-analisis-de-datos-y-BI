@@ -16,7 +16,7 @@ Consultas para extracción, transformación y análisis desde bases de datos rel
 
 ### 📊 Power BI
 Informes interactivos con segmentación, KPIs y visualizaciones que permiten una exploración profunda de los datos.
-> ⚠️ **Nota importante:**  
+> 👋 **Nota importante:**  
 > Los archivos de **Excel (.xlsx)** y **Power BI (.pbix)** no se visualizan directamente en GitHub.  
 > Para poder explorarlos correctamente, es necesario **descargar el archivo** haciendo clic en **"Download"** o en **"View raw"** dentro del repositorio.  
 > Una vez descargado, puedes abrir el archivo localmente en tu computador con **Excel** o **Power BI Desktop** según corresponda.
@@ -24,7 +24,7 @@ Informes interactivos con segmentación, KPIs y visualizaciones que permiten una
 
 ### 📈 Excel
 Proyectos con uso de funciones avanzadas, tablas dinámicas, validaciones de datos, gráficos dinámicos y formato condicional aplicado a reportes administrativos.
-> ⚠️ **Nota importante:**  
+> 👋 **Nota importante:**  
 > Los archivos de **Excel (.xlsx)** y **Power BI (.pbix)** no se visualizan directamente en GitHub.  
 > Para poder explorarlos correctamente, es necesario **descargar el archivo** haciendo clic en **"Download"** o en **"View raw"** dentro del repositorio.  
 > Una vez descargado, puedes abrir el archivo localmente en tu computador con **Excel** o **Power BI Desktop** según corresponda.
